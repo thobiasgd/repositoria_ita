@@ -6,8 +6,9 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 
 ### Modelos 3D desenvolvidos em Solidworks
 <p align="left">
-  <img src="/Imagens/asa_2023.png" width="200">
-  <img src="/Imagens/empenagem_2023.png" width="200">
+  <img src="/Imagens/asa_2023.png" width="800">
+  <br>
+  <img src="/Imagens/empenagem_2023.png" width="800">
 </p>
 
 ### Geometrias otimizadas das superfícies de controle
