@@ -10,6 +10,7 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
   <br>
   <img src="/Imagens/empenagem_2023.png" width="650">
 </p>
+<hr>
 
 ### Geometrias otimizadas das superfícies de controle
 <p align="left">
