@@ -20,13 +20,13 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 
 ### Análises desenvolvidas para relatórios de estabilidade
 <p align="left">
-<img src="/Imagens/estabilidade_estatica_direcional.jpeg">
+<img src="/Imagens/estabilidade_estatica_direcional.jpeg" width="650">
 <br>
-<img src="/Imagens/estabilidade_estatica_longitudinal.jpeg">
+<img src="/Imagens/estabilidade_estatica_longitudinal.jpeg" width="650">
 <br>
-<img src="/Imagens/variacao_de_angulo_de_profundor_x_velocidade.jpeg">
+<img src="/Imagens/variacao_de_angulo_de_profundor_x_velocidade.jpeg" width="650">
 <br>
-<img src="/Imagens/tempo_rolagem_aileron.jpeg">
+<img src="/Imagens/tempo_rolagem_aileron.jpeg" width="650">
 <br>
 
 ## Motusbots
