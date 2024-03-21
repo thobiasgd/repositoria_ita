@@ -1,6 +1,6 @@
 ## *Projetos produzidos durante a graduação*
 
-Aerodesign
+Aerodesign\n
 Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das geometrias das superfícies de e controle (Profundor, aileron e leme). Também participei das análises de estabilidade estática nos 3 eixos da aeronave.
 
 Motusbots
