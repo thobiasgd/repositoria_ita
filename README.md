@@ -18,6 +18,7 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 <br>
 <img src="/algoritmo_genetico/projeto_final_visao_superior.png" width="650">
 </p>
+<hr>
 
 ### Análises desenvolvidas para relatórios de estabilidade
 <p align="left">
@@ -29,6 +30,7 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 <br>
 <img src="/Imagens/tempo_rolagem_aileron.jpeg" width="650">
 <br>
+<hr>
 
 ## Motusbots
 Durante 10 meses, pariticipei de start-up do ramo agrícola, que visava entregar uma ferramenta para análises de doenças utilizando sensores e câmeras. Durante este tempo, desenvolvi a visão computacional do projeto, que por sua vez usava inteligência artificial para detecção das bordas das folhas, e que depois eram submetidas a um tratamento de cores usando Python, a fim de avaliar a porcentagem de área afetada. Por fim, usando a biblioteca Flask, desenvolvi a API do projeto para a comunicação do hardware com o script python.
