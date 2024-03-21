@@ -13,6 +13,8 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 ### Geometrias otimizadas das superfícies de controle
 <p align="center">
 <img src="/algoritmo_genetico/projeto_final_perspectiva.png">
+
+
 <img src="/algoritmo_genetico/projeto_final_visao_superior.png">
 </p>
 
