@@ -6,29 +6,29 @@ Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das
 
 ### Modelos 3D desenvolvidos em Solidworks
 <p align="left">
-  <img src="/Imagens/asa_2023.png" width="650">
+  <img src="/Imagens/asa_2023.png" width="550">
   <br>
-  <img src="/Imagens/empenagem_2023.png" width="650">
+  <img src="/Imagens/empenagem_2023.png" width="550">
 </p>
 <hr>
 
 ### Geometrias otimizadas das superfícies de controle
 <p align="left">
-<img src="/algoritmo_genetico/projeto_final_perspectiva.png" width="650">
+<img src="/algoritmo_genetico/projeto_final_perspectiva.png" width="550">
 <br>
-<img src="/algoritmo_genetico/projeto_final_visao_superior.png" width="650">
+<img src="/algoritmo_genetico/projeto_final_visao_superior.png" width="550">
 </p>
 <hr>
 
 ### Análises desenvolvidas para relatórios de estabilidade
 <p align="left">
-<img src="/Imagens/estabilidade_estatica_direcional.jpeg" width="650">
+<img src="/Imagens/estabilidade_estatica_direcional.jpeg" width="550">
 <br>
-<img src="/Imagens/estabilidade_estatica_longitudinal.jpeg" width="650">
+<img src="/Imagens/estabilidade_estatica_longitudinal.jpeg" width="550">
 <br>
-<img src="/Imagens/variacao_de_angulo_de_profundor_x_velocidade.jpeg" width="650">
+<img src="/Imagens/variacao_de_angulo_de_profundor_x_velocidade.jpeg" width="550">
 <br>
-<img src="/Imagens/tempo_rolagem_aileron.jpeg" width="650">
+<img src="/Imagens/tempo_rolagem_aileron.jpeg" width="550">
 <br>
 <hr>
 
@@ -37,6 +37,6 @@ Durante 10 meses, pariticipei de start-up do ramo agrícola, que visava entregar
 
 ### Aplicação da visão computacional em folhas de abóboras
 <p align="left">
-<img src="/projeto_visao_computacional/area_afetada_01.jpeg">
-<img src="/projeto_visao_computacional/area_afetada_02.jpeg">
+<img src="/projeto_visao_computacional/area_afetada_01.jpeg"  width="550">
+<img src="/projeto_visao_computacional/area_afetada_02.jpeg"  width="550">
 </p>
