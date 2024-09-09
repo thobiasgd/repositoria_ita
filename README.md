@@ -1,5 +1,3 @@
-# *Projetos produzidos durante a graduação*
-
 ## Aerodesign
 
 Durante o projeto Sae Brasil Aerodesign, desenvolvi scripts para a geração das geometrias das superfícies de e controle (Profundor, aileron e leme). No segundo ano do projeto, desenvolvi como TCC um algoritmo genético para a concepção das geometrias otimizadas das superfícies aerodinâmicas, e que proporcionou a equipe a avançar 16 posições na competição. Também participei das análises de estabilidade estática nos 3 eixos da aeronave. No ano final do projeto, participei ativamente do modelo do projeto 3d das superfícies aerodinâmicas da aeronave.
