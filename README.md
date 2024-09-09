@@ -44,3 +44,11 @@ Durante 10 meses, pariticipei de start-up do ramo agrícola, que visava entregar
 
 ## Consultoria de ruídos em planta fabril
 Desenvolvi um algoritmo para uma metalúrgica envolvida em um processo judicial por produzir ruídos acima do permitido. Utilizando dados obtidos por um decibelímetro, criei mapas de calor com python, que identificaram de maneira visual os pontos críticos da fábrica. Com isso, foi possível indicar as áreas que necessitavam de ajustes para cumprir as normas brasileiras de controle de ruído. Os mapas de calor foram gerados usando técnicas de interpolação dos dados, e plotados com a biblioteca matplotlib.
+<img src="/projeto_visao_computacional/1672939753508.png"  width="550">
+<br>
+<img src="/projeto_visao_computacional/E dBA max.png"  width="550">
+<br>
+<img src="/projeto_visao_computacional/E dBC max.png"  width="550">
+<br>
+<hr>
+
