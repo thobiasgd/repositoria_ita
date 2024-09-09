@@ -47,9 +47,9 @@ Desenvolvi um algoritmo para uma metalúrgica envolvida em um processo judicial 
 <br>
 <img src="/Imagens/1672939753508.png"  width="550">
 <br>
-<img src="/Imagens/dba.png">
+<img src="/Imagens/dba.jpeg">
 <br>
-<img src="/Imagens/dbc.png"  width="550">
+<img src="/Imagens/dba.jpeg"  width="550">
 <br>
 <hr>
 
